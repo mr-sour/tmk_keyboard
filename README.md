@@ -1,4 +1,4 @@
-This is your handwired keyboard firmware.
+This is your handwired keyboard firmware
 
 TMK Keyboard Firmware Collection
 ================================
