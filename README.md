@@ -1,3 +1,5 @@
+This is your handwired keyboard firmware.
+
 TMK Keyboard Firmware Collection
 ================================
 This repository includes keyboard and converter firmware projects built with [`tmk_core`][tmk_core] keyboard library.
