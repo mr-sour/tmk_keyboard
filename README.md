@@ -1,4 +1,4 @@
-TMK Keyboard Firmware Collection
+SUper branch
 ================================
 This repository includes keyboard and converter firmware projects built with [`tmk_core`][tmk_core] keyboard library.
 
